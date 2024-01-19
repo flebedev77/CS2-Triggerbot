@@ -20,9 +20,9 @@ AllowNoIcons=yes
 ; Remove the following line to run in administrative install mode (install for all users.)
 PrivilegesRequired=lowest
 PrivilegesRequiredOverridesAllowed=dialog
-OutputDir=C:\Users\USER\Desktop
+OutputDir=Desktop
 OutputBaseFilename=CS2TriggerbotSetup
-SetupIconFile=C:\Users\USER\Downloads\rifle_gun_3874.ico
+SetupIconFile=rifle_gun_3874.ico
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
@@ -59,7 +59,7 @@ Name: "ukrainian"; MessagesFile: "compiler:Languages\Ukrainian.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "D:\BitsAndBobs\Programming\VisualStudio\Cheats\Counter-strike2\mine\CS2Bhop\x64\Release\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
+Source: "CS2Bhop\x64\Release\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
