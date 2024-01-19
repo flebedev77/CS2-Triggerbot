@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (CS2Bhop.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  hack.cpp
+D:\BitsAndBobs\Programming\VisualStudio\Cheats\Counter-strike2\mine\CS2Bhop\CS2Bhop\memory\memory.h(30,62): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'hack.cpp')
+  
+D:\BitsAndBobs\Programming\VisualStudio\Cheats\Counter-strike2\mine\CS2Bhop\CS2Bhop\memory\memory.h(53,71): warning C4244: 'argument': conversion from 'const uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'hack.cpp')
+  
+  Generating code
+  1 of 70 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CS2Bhop.vcxproj -> D:\BitsAndBobs\Programming\VisualStudio\Cheats\Counter-strike2\mine\CS2Bhop\x64\Release\CS2TriggerBot.exe
